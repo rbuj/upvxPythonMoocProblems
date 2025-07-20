@@ -1,3 +1,5 @@
 name: python-upvx
 channels:
   - conda-forge
+dependencies:
+  - ipykernel
